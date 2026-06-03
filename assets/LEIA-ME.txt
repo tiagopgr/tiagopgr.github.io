@@ -1,0 +1,15 @@
+COMO ADICIONAR SUA FOTO
+=======================
+
+1. Salve a sua foto profissional (a do terno escuro) nesta pasta "assets".
+2. Renomeie o arquivo para exatamente:  perfil.jpg
+   (caminho final: assets/perfil.jpg)
+
+Pronto! A foto aparecerá automaticamente na seção inicial (Hero).
+
+Observações:
+- Funciona melhor com proporção vertical (retrato), algo próximo de 4:5.
+- Se o arquivo "perfil.jpg" não existir, o site mostra as iniciais "TL"
+  como imagem temporária — então o layout continua bonito mesmo sem a foto.
+- Se a sua foto for .png, você pode usá-la também: salve como perfil.jpg
+  ou troque a extensão no arquivo index.html (linha com src="assets/perfil.jpg").
